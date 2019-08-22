@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "React Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLai1991/TicTacToe.git"
+  },
+  "author": "Thomas Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLai1991/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/ThomasLai1991/TicTacToe#readme"
+}
